@@ -5,4 +5,5 @@ window.onload = function (){
   })
 
   console.log('is demo.js')
+  console.log('is branch dev')
 }
