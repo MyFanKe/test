@@ -3,4 +3,6 @@ window.onload = function (){
   box.addEventListener('click', () => {
     console.log('这里是测试代码')
   })
+
+  console.log('is demo.js')
 }
