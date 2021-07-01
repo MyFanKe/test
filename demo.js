@@ -4,6 +4,6 @@ window.onload = function (){
     console.log('这里是测试代码')
   })
 
-  console.log('is demo.js')
+  console.log('is - demo.js')
   console.log('is branch dev')
 }
